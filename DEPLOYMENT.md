@@ -45,15 +45,12 @@ Your autonomous AI tools site is **LIVE and OPERATIONAL**
 
 **Next run:** Tomorrow at 8 AM PST
 
-### ⏳ Pending: Deploy Hook (Optional)
-The site will auto-deploy via Vercel's GitHub integration when changes are pushed. For manual rebuild triggers, add a deploy hook:
+### ✅ Active: Deploy Hook
+The deploy hook is configured and tested! The cron job will now trigger instant Vercel rebuilds after generating new tools.
 
-**To add deploy hook:**
-1. Go to https://vercel.com/jwitcoff-9120s-projects/autonomous-ai-tools-site/settings/git
-2. Create deploy hook: "Autonomous Rebuild" for "main" branch
-3. Run: `./scripts/add-deploy-hook.sh <WEBHOOK_URL>`
-
-This allows the cron job to trigger immediate rebuilds instead of waiting for GitHub integration.
+**Deploy Hook URL:** Configured as `DEPLOY_HOOK_URL` environment variable  
+**Status:** ✅ Tested and working  
+**What it does:** Triggers Vercel rebuild immediately after git push (doesn't wait for GitHub integration)
 
 ## 📁 Project Structure
 

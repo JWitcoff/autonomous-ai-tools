@@ -2341,5 +2341,107 @@
     "rating": 4.6,
     "metaTitle": "WellSaid Labs Review 2026: enterprise AI voice with real actors",
     "metaDescription": "WellSaid Labs offers enterprise AI voices built from real voice actors. SOC 2, commercial rights, team features. Enterprise review."
+  },
+  {
+    "slug": "clipchamp",
+    "name": "Clipchamp",
+    "category": "ai-video-editors",
+    "tagline": "Microsoft's browser-based video editor with AI features",
+    "description": "Clipchamp is Microsoft's browser-based video editor that combines traditional editing tools with AI-powered features. Fully integrated into the Microsoft ecosystem and available as a web app, Clipchamp offers an accessible yet powerful platform for creating professional videos without software downloads or expensive subscriptions.\n\nThe platform includes AI-driven features like auto-captions in 80+ languages, text-to-speech with premium voices, background removal, and automatic silence detection for podcasts. Clipchamp's interface is intuitive with drag-and-drop editing, pre-made templates for social media, and a built-in stock library. The editor supports 4K exports and includes brand kit features for consistent team branding.\n\nWhat makes Clipchamp valuable is Microsoft integration and accessibility. Windows 11 users get Clipchamp pre-installed, and Microsoft 365 subscribers receive premium features included with their subscription. The browser-based approach means you can edit from any device without storage constraints, making it ideal for students, educators, small businesses, and anyone who needs quick video creation without the complexity of professional editing software.",
+    "features": [
+      "AI auto-captions in 80+ languages",
+      "Text-to-speech voices",
+      "Background removal",
+      "Silence detection",
+      "4K export",
+      "Stock library",
+      "Brand kit",
+      "Microsoft 365 integration"
+    ],
+    "pricing": "Free tier with watermark. Essentials $11.99/mo, included with Microsoft 365 Personal/Family",
+    "url": "https://clipchamp.com",
+    "bestFor": "Microsoft users and small businesses creating social videos and presentations",
+    "pros": [
+      "Included with Microsoft 365",
+      "Browser-based, no installation",
+      "Easy to learn",
+      "Windows 11 pre-installed"
+    ],
+    "cons": [
+      "Limited advanced features vs pro tools",
+      "Free tier has watermarks",
+      "Performance depends on browser"
+    ],
+    "rating": 4.4,
+    "metaTitle": "Clipchamp review 2026: Microsoft's AI video editor",
+    "metaDescription": "Clipchamp offers browser-based video editing with AI captions and Microsoft 365 integration. Auto-captions, templates, brand kit. Review."
+  },
+  {
+    "slug": "notta",
+    "name": "Notta AI",
+    "category": "ai-subtitle-generators",
+    "tagline": "Real-time transcription and AI meeting notes",
+    "description": "Notta AI is an advanced transcription platform that combines real-time speech-to-text with intelligent meeting notes and automated summaries. Designed for professionals, students, and content creators, Notta excels at capturing conversations, interviews, lectures, and meetings with exceptional accuracy across 58 languages.\n\nThe platform's standout feature is real-time transcription with speaker identification that works seamlessly during live meetings or when processing recorded audio and video files. Notta integrates directly with Zoom, Google Meet, and Microsoft Teams, automatically joining meetings and generating searchable transcripts with timestamps. The AI doesn't just transcribe—it analyzes conversations to extract action items, key decisions, and meeting summaries that save hours of manual note-taking.\n\nWhat sets Notta apart is its focus on making transcripts actionable. The platform includes AI chat that lets you query your transcripts conversationally, collaborative editing tools for teams, and export options for every workflow. For content creators, Notta can transcribe podcasts and YouTube videos, generating show notes and subtitles. The mobile app supports live recording with real-time transcription, perfect for interviews and field work. With competitive pricing and generous free tier, Notta makes professional transcription accessible to individuals and teams without enterprise budgets.",
+    "features": [
+      "Real-time transcription",
+      "58 languages supported",
+      "Meeting integration (Zoom/Teams/Meet)",
+      "AI meeting summaries",
+      "Action item extraction",
+      "Speaker identification",
+      "AI chat with transcripts",
+      "Collaborative editing"
+    ],
+    "pricing": "Free tier 120 min/mo. Pro $14.99/mo, Business $27.99/user/mo, Enterprise custom",
+    "url": "https://notta.ai",
+    "bestFor": "Professionals and students needing meeting transcription and automated notes",
+    "pros": [
+      "Excellent accuracy",
+      "58 language support",
+      "AI summaries save time",
+      "Affordable pricing"
+    ],
+    "cons": [
+      "Free tier limited to 120 min/mo",
+      "Real-time features require stable internet",
+      "Mobile app less feature-rich"
+    ],
+    "rating": 4.5,
+    "metaTitle": "Notta AI review 2026: real-time transcription and meeting notes",
+    "metaDescription": "Notta provides real-time transcription in 58 languages with AI meeting summaries. Zoom/Teams integration, action items. Review."
+  },
+  {
+    "slug": "typeframes",
+    "name": "Typeframes",
+    "category": "ai-video-editors",
+    "tagline": "Turn text into stunning product videos for social media",
+    "description": "Typeframes specializes in converting text and product information into eye-catching social media videos optimized for engagement. The platform is built specifically for product marketing, e-commerce, and social media advertising, transforming simple text descriptions or URLs into professional video content that drives conversions.\n\nTypeframes uses AI to analyze your product details, select appropriate visual styles, and generate videos with smooth animations, text overlays, and music that match your brand. The platform offers templates optimized for different social platforms and ad types, from Instagram Stories to TikTok ads. You can customize colors, fonts, and animations to maintain brand consistency, or let the AI handle everything automatically. Typeframes also supports bulk video creation, allowing you to generate dozens of product videos from a spreadsheet.\n\nWhat makes Typeframes powerful is speed combined with professional quality. Marketing teams can generate a month's worth of social video content in an afternoon, A/B test different creative approaches, and maintain consistent output without video editing expertise. The platform is particularly popular with DTC brands, Amazon sellers, and social media marketers who need high-volume video content for paid ads and organic social. Integration with product feeds and e-commerce platforms enables automated video creation as new products are added.",
+    "features": [
+      "Text to product video",
+      "Social media templates",
+      "Brand customization",
+      "Bulk video generation",
+      "E-commerce integration",
+      "Music library",
+      "Platform optimization",
+      "A/B test variations"
+    ],
+    "pricing": "Starter $29/mo, Pro $59/mo, Business $149/mo with team features and bulk generation",
+    "url": "https://typeframes.com",
+    "bestFor": "E-commerce brands and marketers creating social video ads at scale",
+    "pros": [
+      "Fast product video creation",
+      "Bulk generation for catalogs",
+      "Platform-optimized templates",
+      "No video skills required"
+    ],
+    "cons": [
+      "Product-focused, not general purpose",
+      "Templates can feel similar",
+      "Higher tiers needed for bulk features"
+    ],
+    "rating": 4.3,
+    "metaTitle": "Typeframes review 2026: text to product video for social ads",
+    "metaDescription": "Typeframes creates product videos from text for social media ads. Bulk generation, e-commerce integration. DTC brand review."
   }
 ]

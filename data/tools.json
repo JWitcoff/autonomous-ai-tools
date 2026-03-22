@@ -2443,5 +2443,107 @@
     "rating": 4.3,
     "metaTitle": "Typeframes review 2026: text to product video for social ads",
     "metaDescription": "Typeframes creates product videos from text for social media ads. Bulk generation, e-commerce integration. DTC brand review."
+  },
+  {
+    "slug": "magnific-ai",
+    "name": "Magnific AI",
+    "category": "ai-image-generators",
+    "tagline": "AI image upscaling and enhancement with hallucinated details",
+    "description": "Magnific AI revolutionizes image upscaling by not just enlarging images but intelligently adding photorealistic details that weren't in the original. Unlike traditional upscalers that simply interpolate pixels, Magnific uses advanced AI to hallucinate realistic textures, features, and details, transforming low-resolution images into stunning high-resolution masterpieces.\n\nThe platform offers unprecedented control over the upscaling process with creativity and detail sliders that let you balance between staying faithful to the original and adding enhanced detail. Magnific can upscale images up to 16x while maintaining coherence and adding appropriate details for faces, textures, landscapes, and artwork. The guided upscale feature allows you to prompt specific improvements, like enhancing skin texture or sharpening architectural details.\n\nWhat makes Magnific exceptional is its ability to rescue seemingly unusable images. Photographers use it to salvage underexposed or low-resolution shots, AI artists to refine generated images, and print shops to prepare digital artwork for large-format printing. The results often surpass what's possible with traditional upscaling, though the hallucinated details mean it's ideal for creative work rather than forensic accuracy.",
+    "features": [
+      "Up to 16x upscaling",
+      "AI detail hallucination",
+      "Creativity control slider",
+      "Guided upscale with prompts",
+      "Face enhancement",
+      "Texture restoration",
+      "Batch processing",
+      "Multiple AI engines"
+    ],
+    "pricing": "Basic $39/mo 200 credits, Standard $99/mo 500 credits, Premium $299/mo 2000 credits, Pro $499/mo 4000 credits",
+    "url": "https://magnific.ai",
+    "bestFor": "Photographers and AI artists who need to upscale images with enhanced details",
+    "pros": [
+      "Exceptional detail enhancement",
+      "Rescues low-quality images",
+      "Granular creative control",
+      "Best-in-class upscaling quality"
+    ],
+    "cons": [
+      "Expensive credit system",
+      "Adds details that weren't originally there",
+      "Not suitable for forensic accuracy"
+    ],
+    "rating": 4.7,
+    "metaTitle": "Magnific AI review 2026: AI upscaling with hallucinated details",
+    "metaDescription": "Magnific AI upscales images up to 16x with intelligent detail enhancement. Face restoration, texture generation. Photographer review."
+  },
+  {
+    "slug": "krea-ai",
+    "name": "Krea AI",
+    "category": "ai-image-generators",
+    "tagline": "Real-time AI image generation with instant previews",
+    "description": "Krea AI offers a revolutionary real-time image generation experience where every change to your prompt or canvas instantly updates the generated image. Unlike traditional AI image generators that require waiting 10-60 seconds per generation, Krea's real-time engine lets you see results as you type, adjust, and refine—making the creative process feel fluid and intuitive like painting rather than iterative guessing.\n\nThe platform combines text prompts with visual controls including AI patterns (control composition with simple drawings), upscaling, and style references. Krea's real-time canvas lets you sketch rough compositions and watch them transform into photorealistic or stylized images instantly. The platform also offers logo generation, enhancer tools, and an AI training feature that lets you fine-tune models on your own style or subject matter.\n\nWhat sets Krea apart is the elimination of generation friction. Designers can explore dozens of variations in the time it would take traditional tools to generate a few images. The real-time feedback makes it exceptional for iterative creative work, concept exploration, and rapid prototyping. It's particularly popular with UI designers, concept artists, and anyone who values creative flow over waiting for renders.",
+    "features": [
+      "Real-time generation",
+      "AI patterns for composition control",
+      "Logo generator",
+      "Image enhancer",
+      "Custom model training",
+      "Style references",
+      "Upscaling",
+      "Commercial license"
+    ],
+    "pricing": "Free tier 10 images/day. Pro $24/mo unlimited generations, Max $48/mo with priority and advanced features",
+    "url": "https://krea.ai",
+    "bestFor": "Designers who need rapid iteration and real-time creative feedback",
+    "pros": [
+      "Instant real-time generation",
+      "Fluid creative workflow",
+      "Excellent for rapid prototyping",
+      "Generous free tier"
+    ],
+    "cons": [
+      "Quality sometimes sacrificed for speed",
+      "Real-time features require stable internet",
+      "Less photorealistic than slower tools"
+    ],
+    "rating": 4.5,
+    "metaTitle": "Krea AI review 2026: real-time AI image generation platform",
+    "metaDescription": "Krea AI generates images in real-time as you type and draw. Instant previews, AI patterns, logo generator. Designer review."
+  },
+  {
+    "slug": "recraft-ai",
+    "name": "Recraft AI",
+    "category": "ai-image-generators",
+    "tagline": "AI vector art and brand illustration generator",
+    "description": "Recraft AI specializes in generating vector graphics, icons, and brand illustrations with AI, filling a unique gap in the AI image generation landscape. While most AI tools focus on raster images, Recraft creates scalable vector artwork perfect for logos, icons, illustrations, and brand assets that need to work at any size without quality loss.\n\nThe platform offers multiple AI models optimized for different illustration styles—from flat design and minimalist icons to detailed vector illustrations. Recraft maintains consistent brand styles across generations, making it invaluable for creating cohesive brand asset libraries. You can generate sets of icons that match visually, create illustration systems with consistent characters, and export true vector SVG files ready for Figma, Illustrator, or web use.\n\nWhat distinguishes Recraft is its focus on brand and design systems rather than one-off images. Designers use it to rapidly prototype brand identities, create icon sets, and generate illustration assets that maintain visual consistency. The vector output means infinite scalability without quality loss, making it essential for professional design work where assets need to work across business cards, billboards, and everything in between.",
+    "features": [
+      "Vector SVG output",
+      "Brand style consistency",
+      "Icon set generation",
+      "Multiple illustration styles",
+      "Raster to vector conversion",
+      "Color palette control",
+      "Batch generation",
+      "Figma integration"
+    ],
+    "pricing": "Free tier 3 projects. Pro $20/mo unlimited projects, Enterprise custom with team features and API",
+    "url": "https://recraft.ai",
+    "bestFor": "Brand designers creating vector icons, logos, and illustration systems",
+    "pros": [
+      "True vector output",
+      "Excellent for brand consistency",
+      "Scalable without quality loss",
+      "Great for icon sets"
+    ],
+    "cons": [
+      "Limited to illustration styles",
+      "Not suitable for photorealism",
+      "Learning curve for style consistency"
+    ],
+    "rating": 4.4,
+    "metaTitle": "Recraft AI review 2026: AI vector art and brand illustration",
+    "metaDescription": "Recraft AI generates vector graphics, icons, and brand illustrations. SVG export, style consistency, icon sets. Designer review."
   }
 ]

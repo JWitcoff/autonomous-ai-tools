@@ -2932,5 +2932,107 @@
     "rating": 4.5,
     "metaTitle": "Clipdrop review 2026: AI image toolkit by Stability AI",
     "metaDescription": "Clipdrop offers background removal, cleanup, relighting, and Stable Diffusion generation. Complete AI image toolkit for creators."
+  },
+  {
+    "slug": "claude",
+    "name": "Claude",
+    "category": "ai-writing-assistants",
+    "tagline": "Anthropic's conversational AI for deep thinking and analysis",
+    "description": "Claude is Anthropic's flagship AI assistant, designed with a focus on helpfulness, harmlessness, and honesty. Unlike ChatGPT's approach, Claude excels at nuanced conversation, careful analysis, and maintaining context across long documents. The platform is trusted by businesses and individuals who need thoughtful, accurate responses for complex tasks ranging from research and writing to coding and analysis.\n\nClaude offers multiple model tiers including Claude 3.5 Sonnet (balanced performance), Claude 3 Opus (maximum capability), and Claude 3 Haiku (speed-optimized). The system can process up to 200,000 tokens of context—roughly 150,000 words or 500 pages—making it exceptional for analyzing long documents, codebases, or research papers. Claude's approach prioritizes understanding intent and providing thorough, well-reasoned responses over quick generation.\n\nWhat distinguishes Claude is its Constitutional AI training that emphasizes careful reasoning and transparent limitations. Developers and enterprises use Claude API for building applications, while professionals rely on Claude.ai for research, writing assistance, data analysis, and strategic thinking. The platform's strength in maintaining conversation coherence over extended dialogues makes it invaluable for complex projects requiring sustained back-and-forth collaboration.",
+    "features": [
+      "200K token context window",
+      "Claude 3.5 Sonnet and Opus models",
+      "Document analysis and research",
+      "Code generation and review",
+      "Extended conversations",
+      "Vision capabilities",
+      "API access",
+      "Constitutional AI safety"
+    ],
+    "pricing": "Free tier available. Claude Pro $20/mo for higher limits, API pay-per-use starting $3/million tokens",
+    "url": "https://claude.ai",
+    "bestFor": "Researchers, writers, and professionals needing thoughtful analysis of complex topics",
+    "pros": [
+      "Exceptional long-context understanding",
+      "Careful, nuanced reasoning",
+      "Strong at following complex instructions",
+      "Transparent about limitations"
+    ],
+    "cons": [
+      "Can be slower than competitors",
+      "More cautious responses",
+      "Free tier message limits"
+    ],
+    "rating": 4.7,
+    "metaTitle": "Claude Review 2026: Anthropic's AI for Deep Thinking and Analysis",
+    "metaDescription": "Claude offers 200K context window for analyzing long documents. Thoughtful reasoning, code generation, research. Review."
+  },
+  {
+    "slug": "cursor",
+    "name": "Cursor",
+    "category": "ai-writing-assistants",
+    "tagline": "AI-first code editor built on VS Code",
+    "description": "Cursor is revolutionizing software development as an AI-native code editor that feels like pair programming with an expert developer. Built as a fork of VS Code, Cursor maintains full compatibility with VS Code extensions while adding powerful AI features that go far beyond autocomplete. The platform integrates Claude, GPT-4, and custom models directly into the editing experience, making AI assistance feel native rather than bolted-on.\n\nThe editor's standout features include Cmd+K for inline AI edits (select code and describe changes), AI Chat that understands your entire codebase for contextual suggestions, and Tab autocomplete that predicts entire code blocks. Cursor's AI can refactor code, explain complex functions, write tests, debug issues, and even scaffold entire features from natural language descriptions. The Composer feature enables multi-file editing where AI makes coordinated changes across your project.\n\nWhat makes Cursor transformative is understanding context across your entire codebase. Instead of treating each file in isolation, Cursor indexes your project to provide suggestions aware of your architecture, coding patterns, and dependencies. Developers report 2-3x productivity gains on routine tasks while learning new frameworks faster through AI explanations. The platform is particularly powerful for full-stack development, refactoring legacy code, and onboarding to unfamiliar codebases.",
+    "features": [
+      "AI inline editing with Cmd+K",
+      "Codebase-aware AI chat",
+      "Intelligent autocomplete",
+      "Multi-file Composer mode",
+      "Terminal command generation",
+      "Code explanation and documentation",
+      "VS Code extension compatibility",
+      "Privacy mode for sensitive code"
+    ],
+    "pricing": "Free tier available. Pro $20/mo unlimited AI requests, Business $40/user/mo with team features",
+    "url": "https://cursor.sh",
+    "bestFor": "Software developers who want AI assistance integrated into their development workflow",
+    "pros": [
+      "Seamless AI integration",
+      "Understands full codebase context",
+      "VS Code compatibility",
+      "Massive productivity boost"
+    ],
+    "cons": [
+      "Learning curve for AI features",
+      "Requires switching from existing editor",
+      "Internet required for AI features"
+    ],
+    "rating": 4.8,
+    "metaTitle": "Cursor Review 2026: AI-Powered Code Editor for Developers",
+    "metaDescription": "Cursor integrates AI into VS Code for inline editing, codebase chat, and multi-file refactoring. Developer productivity review."
+  },
+  {
+    "slug": "hedra",
+    "name": "Hedra",
+    "category": "ai-avatar-generators",
+    "tagline": "Character creation with audio-driven animation",
+    "description": "Hedra is pioneering a new category of AI video creation that combines character generation with audio-driven facial animation. The platform's breakthrough technology allows you to create custom characters—realistic humans, stylized avatars, or fantastical creatures—and animate them to speak with realistic lip-sync, expressions, and head movements that respond naturally to any audio input.\n\nHedra's workflow starts with character creation using text prompts or reference images, then applies its audio2face technology to animate characters speaking your script or uploaded audio. The facial animation quality rivals traditional motion capture, with nuanced expressions, natural eye movements, and believable emotion that makes characters feel alive. Unlike avatar platforms with pre-made characters, Hedra generates unique characters on demand, opening creative possibilities for storytelling, entertainment, and education.\n\nWhat distinguishes Hedra is its focus on character-driven narrative content rather than corporate talking heads. Creators use Hedra for animated shorts, visual storytelling, character-based education, and experimental film projects. The platform has gained traction with independent animators, educators creating engaging learning content, and storytellers who want character animation capabilities without traditional animation skills or budgets. Recent updates include improved expression range and support for multiple characters in scenes.",
+    "features": [
+      "AI character generation",
+      "Audio2face technology",
+      "Realistic lip-sync",
+      "Expression and emotion control",
+      "Custom character creation",
+      "Multiple art styles",
+      "High-quality exports",
+      "Voice-driven animation"
+    ],
+    "pricing": "Free tier 5 videos/mo. Creator $10/mo, Professional $30/mo with higher resolution and limits",
+    "url": "https://hedra.com",
+    "bestFor": "Storytellers and educators creating character-driven animated content",
+    "pros": [
+      "Exceptional facial animation",
+      "Custom character generation",
+      "Natural expressions and lip-sync",
+      "Creative flexibility"
+    ],
+    "cons": [
+      "Free tier very limited",
+      "Character quality varies with prompts",
+      "Best for close-up character shots"
+    ],
+    "rating": 4.5,
+    "metaTitle": "Hedra Review 2026: AI Character Creation with Audio Animation",
+    "metaDescription": "Hedra creates custom animated characters with audio-driven facial animation. Lip-sync, expressions, storytelling. Review."
   }
 ]

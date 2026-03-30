@@ -3034,5 +3034,108 @@
     "rating": 4.5,
     "metaTitle": "Hedra Review 2026: AI Character Creation with Audio Animation",
     "metaDescription": "Hedra creates custom animated characters with audio-driven facial animation. Lip-sync, expressions, storytelling. Review."
+  },
+  {
+    "slug": "fireflies-ai",
+    "name": "Fireflies.ai",
+    "category": "ai-podcast-tools",
+    "tagline": "AI meeting assistant and conversation intelligence",
+    "description": "Fireflies.ai is a comprehensive AI meeting assistant that automatically joins your video calls, records conversations, transcribes in real-time, and generates actionable insights. The platform integrates seamlessly with Zoom, Google Meet, Microsoft Teams, and other conferencing tools, capturing every word while you focus on the conversation.\n\nBeyond basic transcription, Fireflies offers conversation intelligence with AI-powered summaries, action item extraction, and sentiment analysis. The platform creates searchable meeting libraries where you can find any discussion point in seconds, track recurring topics across meetings, and analyze speaking patterns. Fireflies Smart Search uses AI to answer questions about your meetings conversationally—ask 'What did we decide about the Q2 budget?' and get instant answers with links to relevant moments.\n\nWhat sets Fireflies apart from competitors like Otter.ai is its deep CRM integration and sales focus. The platform syncs meeting notes directly to Salesforce, HubSpot, and other business tools, automatically logging calls and extracting deal-related information. Sales teams use Fireflies to analyze customer conversations, identify winning patterns, and coach reps based on real call data. For product teams, Fireflies aggregates user feedback across dozens of customer calls, surfacing trends without manual review. The platform offers team collaboration features including comment threads on transcripts, shareable highlight reels, and privacy controls for sensitive conversations.",
+    "features": [
+      "Auto-join video calls",
+      "Real-time transcription",
+      "AI meeting summaries",
+      "Action item tracking",
+      "CRM integrations (Salesforce, HubSpot)",
+      "Conversation intelligence",
+      "Smart Search across meetings",
+      "Sentiment analysis"
+    ],
+    "pricing": "Free tier unlimited transcription. Pro $10/user/mo, Business $19/user/mo, Enterprise custom",
+    "url": "https://fireflies.ai",
+    "bestFor": "Sales teams and product managers analyzing customer conversations at scale",
+    "pros": [
+      "Generous free tier",
+      "Strong CRM integrations",
+      "Conversation intelligence for sales",
+      "Searchable meeting library"
+    ],
+    "cons": [
+      "Can feel intrusive having bot join calls",
+      "Free tier has storage limits",
+      "Best features require paid plans"
+    ],
+    "rating": 4.6,
+    "metaTitle": "Fireflies.ai review 2026: AI meeting assistant with conversation intelligence",
+    "metaDescription": "Fireflies.ai records, transcribes, and analyzes meetings with CRM integration. Smart Search, sentiment analysis. Sales team review."
+  },
+  {
+    "slug": "tome",
+    "name": "Tome",
+    "category": "ai-writing-assistants",
+    "tagline": "AI-powered storytelling and presentation platform",
+    "description": "Tome reimagines presentations as immersive, AI-generated narratives that combine text, images, and layouts in a fluid, storytelling format. Unlike traditional slide decks, Tome creates scroll-based presentations that feel more like interactive documents, designed for the way people actually consume content on screens—scrolling rather than clicking through rigid slides.\n\nThe platform uses AI to transform simple prompts or outlines into complete presentation narratives with professionally designed layouts, relevant imagery from DALL·E integration, and cohesive visual flow. Tome understands context and generates not just slides but coherent stories with logical progression, compelling visuals, and narrative arc. You can start from a one-line idea and watch Tome build a complete presentation, or use it to enhance existing content with better structure and visuals.\n\nWhat distinguishes Tome from competitors like Gamma is its focus on narrative storytelling over traditional business presentations. Tome is particularly popular with product marketers for launch narratives, startup founders crafting investor stories, and creative professionals presenting portfolio work. The platform offers live presentation mode with analytics showing which pages hold attention, embedded content from Figma and Loom, and mobile-optimized viewing that works beautifully on any device. Tome's AI continually improves layouts based on viewer engagement data, learning what presentation structures perform best. The collaborative features make it ideal for teams iterating on company narratives, pitch decks, and visual stories.",
+    "features": [
+      "AI narrative generation",
+      "DALL·E image integration",
+      "Scroll-based presentations",
+      "Live presentation analytics",
+      "Embedded Figma/Loom content",
+      "Mobile-optimized viewing",
+      "Collaborative editing",
+      "Template library"
+    ],
+    "pricing": "Free tier unlimited presentations. Pro $16/user/mo with advanced AI and analytics, Enterprise custom",
+    "url": "https://tome.app",
+    "bestFor": "Storytellers and product marketers crafting narrative presentations and pitch decks",
+    "pros": [
+      "Excellent for narrative storytelling",
+      "Beautiful default designs",
+      "Mobile viewing experience",
+      "Generous free tier"
+    ],
+    "cons": [
+      "Less suitable for traditional business decks",
+      "Scroll format not for everyone",
+      "Export options limited vs PowerPoint"
+    ],
+    "rating": 4.5,
+    "metaTitle": "Tome review 2026: AI storytelling and presentation platform",
+    "metaDescription": "Tome creates narrative presentations with AI-generated content and designs. DALL·E integration, scroll format. Storyteller review."
+  },
+  {
+    "slug": "rewind-ai",
+    "name": "Rewind AI",
+    "category": "ai-writing-assistants",
+    "tagline": "Personal AI that records everything you see, say, and hear",
+    "description": "Rewind AI is a groundbreaking personal AI assistant that records everything on your Mac and iPhone—every meeting, webpage, document, and app you interact with—creating a searchable, private memory that lives locally on your devices. Unlike cloud-based AI assistants, Rewind compresses and stores your digital life on-device with end-to-end encryption, giving you photographic memory of your digital existence without privacy compromises.\n\nThe platform continuously captures your screen and audio (with permission), transcribes all spoken words, and uses AI to make everything instantly searchable and retrievable. Ask Rewind conversational questions like 'What was that design tool Sarah mentioned in our call last week?' or 'Find the pricing spreadsheet from the client meeting,' and it retrieves the exact moment with context. Rewind can summarize meetings you forgot to take notes in, draft emails based on previous conversations, and even generate content using your personal knowledge base as context.\n\nWhat makes Rewind revolutionary is solving the human memory problem for knowledge workers. Instead of frantically taking notes, searching email threads, or losing track of commitments, Rewind remembers everything for you. The AI understands context across your entire digital life—connecting conversations, documents, and web research automatically. Rewind is particularly powerful for executives managing hundreds of relationships, product managers tracking feature requests across dozens of calls, and writers who need to recall research from months of browsing. The privacy-first architecture means your data never leaves your devices, addressing the biggest concern with AI memory tools. Recent updates include iPhone capture, Zoom summaries delivered as meetings end, and Ask Rewind chatbot that answers questions using your entire digital history as knowledge base.",
+    "features": [
+      "Mac screen and audio recording",
+      "iPhone app with capture",
+      "Local on-device storage",
+      "Conversational search",
+      "Meeting auto-summaries",
+      "Context-aware AI assistant",
+      "End-to-end encryption",
+      "No cloud storage required"
+    ],
+    "pricing": "Free tier limited recording. Pro $29/mo unlimited capture and AI features",
+    "url": "https://rewind.ai",
+    "bestFor": "Knowledge workers and executives who need perfect recall of meetings, research, and commitments",
+    "pros": [
+      "Truly revolutionary concept",
+      "Privacy-first with local storage",
+      "Searchable digital memory",
+      "Context across entire digital life"
+    ],
+    "cons": [
+      "Mac/iPhone only currently",
+      "Significant storage requirements",
+      "Privacy concerns if device compromised",
+      "Battery impact on recording"
+    ],
+    "rating": 4.7,
+    "metaTitle": "Rewind AI review 2026: personal AI with photographic memory",
+    "metaDescription": "Rewind records everything you see and hear on Mac/iPhone with local storage. Searchable digital memory, meeting summaries. Review."
   }
 ]

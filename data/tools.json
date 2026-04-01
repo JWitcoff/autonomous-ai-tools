@@ -3242,5 +3242,111 @@
     "rating": 4.4,
     "metaTitle": "Character.AI review 2026: create and chat with AI characters",
     "metaDescription": "Character.AI lets you create and converse with AI personalities. Millions of characters for education, creativity, language learning. Review."
+  },
+  {
+    "slug": "gemini",
+    "name": "Gemini",
+    "category": "ai-writing-assistants",
+    "tagline": "Google's multimodal AI for text, image, and code",
+    "description": "Gemini is Google's most advanced AI model, competing directly with ChatGPT and Claude. Available through Google AI Studio, the Gemini app, and integrated throughout Google Workspace, Gemini excels at understanding and generating text, analyzing images, writing code, and reasoning about complex problems. The platform offers multiple model tiers—Gemini Flash for speed, Gemini Pro for balanced performance, and Gemini Ultra for the most challenging tasks.\n\nWhat distinguishes Gemini is deep integration with Google's ecosystem. Gemini can access Gmail, Drive, Docs, and Calendar to provide contextual assistance across your entire Google workflow. The Extended context window (up to 2 million tokens in some versions) allows Gemini to process entire codebases, lengthy documents, or hours of video transcripts in a single conversation. Gemini's multimodal capabilities are particularly strong—it can analyze images, interpret charts, understand video frames, and generate sophisticated visualizations.\n\nGemini is particularly powerful for professionals already embedded in Google Workspace, researchers working with large datasets, developers who need code assistance with broad context awareness, and anyone who values Google's privacy commitments and enterprise-grade security. Recent updates include Gemini 2.0 with enhanced reasoning, better code generation, and improved creative writing capabilities. The platform has become essential for users who want AI assistance that understands the full context of their work across multiple Google services.",
+    "features": [
+      "Multimodal understanding (text, image, video)",
+      "Extended context up to 2M tokens",
+      "Google Workspace integration",
+      "Advanced code generation",
+      "Real-time web access",
+      "Multiple model tiers (Flash/Pro/Ultra)",
+      "Voice conversations",
+      "Mobile apps"
+    ],
+    "pricing": "Free tier with Gemini Flash. Gemini Advanced (Ultra) $19.99/mo with 2TB Google One storage, Gemini in Workspace apps",
+    "url": "https://gemini.google.com",
+    "bestFor": "Google Workspace users and developers needing multimodal AI with extended context",
+    "pros": [
+      "Deep Google integration",
+      "Extended context window exceptional",
+      "Strong multimodal capabilities",
+      "Privacy and security focus"
+    ],
+    "cons": [
+      "Best features require Advanced subscription",
+      "Less creative than Claude for writing",
+      "Integration limited outside Google ecosystem"
+    ],
+    "rating": 4.6,
+    "metaTitle": "Gemini review 2026: Google's multimodal AI assistant",
+    "metaDescription": "Gemini offers AI text, image, and code assistance with Google Workspace integration. Extended context, multiple models. Review."
+  },
+  {
+    "slug": "flux",
+    "name": "Flux",
+    "category": "ai-image-generators",
+    "tagline": "Open-source AI image generation with photorealistic quality",
+    "description": "Flux is an open-source image generation model developed by Black Forest Labs (the team behind Stable Diffusion) that has quickly gained recognition for producing exceptionally photorealistic images with accurate prompt following. Available through platforms like Replicate, fal.ai, and Hugging Face, Flux represents the next generation of open-source AI image generation, rivaling proprietary models in quality while maintaining the flexibility and customization of open-source.\n\nFlux offers multiple model variants optimized for different use cases: Flux Pro for maximum quality, Flux Dev for development and experimentation, and Flux Schnell for rapid generation. The model excels at understanding complex prompts, rendering human anatomy accurately, generating legible text within images, and maintaining consistent lighting and composition. Flux handles difficult scenarios that trip up other generators—multiple people interacting naturally, accurate hand and facial details, and realistic physics and proportions.\n\nWhat makes Flux revolutionary is democratizing professional-quality image generation. Developers can fine-tune Flux on custom datasets, researchers can study and improve the architecture, and creators can generate unlimited images without usage restrictions. The model has been rapidly adopted by the AI art community, with thousands of custom fine-tunes and LoRAs available for specialized styles and subjects. Flux represents open-source AI catching up to—and in some cases surpassing—proprietary alternatives, making high-quality image generation accessible to everyone.",
+    "features": [
+      "Multiple model variants (Pro/Dev/Schnell)",
+      "Exceptional photorealism",
+      "Accurate prompt following",
+      "Text rendering in images",
+      "Open-source customization",
+      "LoRA training support",
+      "API access via multiple platforms",
+      "Commercial use allowed"
+    ],
+    "pricing": "Free via Hugging Face (self-hosted). Commercial APIs: Replicate $0.003-0.05/image, fal.ai $0.025/image, varies by model and platform",
+    "url": "https://blackforestlabs.ai",
+    "bestFor": "Developers and creators who want open-source flexibility with professional image quality",
+    "pros": [
+      "Exceptional quality rivals Midjourney",
+      "Open-source flexibility",
+      "Accurate prompt interpretation",
+      "Strong photorealism and anatomy",
+      "Active community and fine-tunes"
+    ],
+    "cons": [
+      "Requires technical setup for self-hosting",
+      "Commercial APIs can get expensive",
+      "Documentation scattered across platforms",
+      "Learning curve for optimization"
+    ],
+    "rating": 4.7,
+    "metaTitle": "Flux review 2026: open-source photorealistic AI image generator",
+    "metaDescription": "Flux generates photorealistic AI images with exceptional prompt accuracy. Open-source, customizable, commercial use. Developer review."
+  },
+  {
+    "slug": "whisper",
+    "name": "Whisper",
+    "category": "ai-subtitle-generators",
+    "tagline": "OpenAI's open-source speech recognition and transcription",
+    "description": "Whisper is OpenAI's robust speech recognition model, available as free open-source software that developers can run locally or through cloud APIs. Trained on 680,000 hours of multilingual audio, Whisper delivers exceptional transcription accuracy across 99 languages with impressive robustness to accents, background noise, and technical language. Unlike cloud-only transcription services, Whisper can run entirely on your own hardware, making it ideal for privacy-sensitive applications and offline workflows.\n\nWhisper offers multiple model sizes (Tiny through Large) that trade accuracy for speed, allowing you to optimize for your specific use case. The model handles multiple languages automatically, can translate non-English speech to English, and includes timestamps for every word. Whisper's architecture is particularly strong at understanding context, correctly transcribing technical terminology, and maintaining accuracy even in challenging audio conditions. The model powers transcription features in countless applications and has become the de facto standard for open-source speech recognition.\n\nWhat makes Whisper transformative is democratizing professional-grade transcription. Podcasters, developers, researchers, and accessibility advocates use Whisper to add transcription capabilities to applications without per-minute costs or privacy concerns. The open-source nature allows customization and fine-tuning for specific domains like medical or legal transcription. Whisper has been integrated into video editors, note-taking apps, accessibility tools, and language learning platforms. For developers building transcription features or users who want local, private transcription, Whisper is the gold standard.",
+    "features": [
+      "99 languages supported",
+      "Multiple model sizes (Tiny-Large)",
+      "Runs locally for privacy",
+      "Timestamp generation",
+      "Automatic language detection",
+      "Translation to English",
+      "Robust to noise and accents",
+      "Open-source and free"
+    ],
+    "pricing": "Completely free for self-hosting. OpenAI API pricing: $0.006/minute for Whisper API",
+    "url": "https://openai.com/research/whisper",
+    "bestFor": "Developers and power users who need accurate, private transcription they can run locally",
+    "pros": [
+      "Completely free and open-source",
+      "Exceptional accuracy for open-source",
+      "99 language support",
+      "Privacy-focused (runs locally)",
+      "Robust to difficult audio"
+    ],
+    "cons": [
+      "Requires technical setup for local use",
+      "Large models need powerful hardware",
+      "No built-in speaker diarization",
+      "Command-line interface for self-hosted"
+    ],
+    "rating": 4.8,
+    "metaTitle": "Whisper review 2026: OpenAI's open-source transcription tool",
+    "metaDescription": "Whisper provides accurate speech recognition in 99 languages. Free, open-source, runs locally. Developer and podcaster review."
   }
 ]

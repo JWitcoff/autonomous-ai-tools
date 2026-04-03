@@ -3457,5 +3457,111 @@
     "rating": 4.6,
     "metaTitle": "GitHub Copilot review 2026: AI pair programmer for developers",
     "metaDescription": "GitHub Copilot writes code with you using AI. Real-time suggestions, chat, multi-language support. Professional developer review."
+  },
+  {
+    "slug": "photoroom",
+    "name": "Photoroom",
+    "category": "ai-image-generators",
+    "tagline": "AI product photography and background removal",
+    "description": "Photoroom is the go-to AI tool for product photography, offering instant background removal, professional studio backdrops, and AI-generated scenes optimized for e-commerce and marketing. The platform is designed for online sellers, content creators, and marketers who need professional product images without expensive photoshoots or complex editing software.\n\nPhotoroom's AI instantly removes backgrounds with remarkable accuracy, handling complex edges like hair, glass, and transparent objects. Beyond removal, the platform offers hundreds of customizable backgrounds, shadows, and lighting setups that make products look professionally photographed. The Instant Backgrounds feature uses AI to generate contextual scenes that showcase products in realistic environments—place a chair in a living room or shoes on a street—all from a simple product photo. Batch editing allows processing hundreds of images with consistent styling.\n\nWhat makes Photoroom essential for e-commerce is speed combined with professional results. Sellers can create marketplace-ready images in seconds rather than hours, maintaining visual consistency across entire product catalogs. The mobile app brings studio-quality editing to iPhone, perfect for sellers who photograph inventory with their phones. Magic Retouch removes unwanted objects, AI Shadows adds realistic lighting, and Smart Resize optimizes images for different platforms automatically. With over 50 million users, Photoroom has become the standard tool for e-commerce product photography.",
+    "features": [
+      "Instant background removal",
+      "AI-generated backgrounds",
+      "Magic Retouch object removal",
+      "AI Shadows and lighting",
+      "Batch editing",
+      "Smart Resize for platforms",
+      "Mobile app for iPhone",
+      "Brand kit templates"
+    ],
+    "pricing": "Free tier with watermark. Pro $12.99/mo removes watermark and unlocks premium features",
+    "url": "https://photoroom.com",
+    "bestFor": "E-commerce sellers and marketers creating professional product images at scale",
+    "pros": [
+      "Instant, accurate background removal",
+      "Perfect for e-commerce workflows",
+      "Excellent mobile app",
+      "Batch processing saves hours",
+      "Affordable pricing"
+    ],
+    "cons": [
+      "Free tier has watermarks",
+      "AI backgrounds sometimes look artificial",
+      "Limited creative editing vs full photo editors"
+    ],
+    "rating": 4.6,
+    "metaTitle": "Photoroom review 2026: AI product photography and background removal",
+    "metaDescription": "Photoroom creates professional product images with AI background removal and generated scenes. Batch editing, mobile app. E-commerce review."
+  },
+  {
+    "slug": "codeium",
+    "name": "Codeium",
+    "category": "ai-writing-assistants",
+    "tagline": "Free AI code completion and chat for developers",
+    "description": "Codeium is a powerful AI coding assistant that offers intelligent code completion, AI chat, and automated code generation—completely free for individual developers. As a compelling alternative to GitHub Copilot, Codeium provides advanced AI assistance without subscription costs, making it accessible to students, indie developers, and anyone who wants AI-powered coding support.\n\nThe platform offers real-time code suggestions as you type, with context awareness across your entire codebase. Codeium supports 70+ programming languages and integrates with popular IDEs including VS Code, JetBrains, Vim, and more. The AI chat feature allows conversational interactions for explaining code, debugging, refactoring, and generating functions from natural language descriptions. Codeium's command feature provides quick actions like generating unit tests, adding documentation, or optimizing performance with a single keystroke.\n\nWhat sets Codeium apart is its generous free tier combined with performance that rivals premium tools. Unlike GitHub Copilot's $10/month subscription, Codeium offers unlimited autocompletion and chat to individual developers at no cost. The platform uses advanced language models trained on billions of lines of code while prioritizing privacy—your code stays private and isn't used for training. For teams, Codeium offers deployment options with fine-tuning on private codebases, codebase-aware chat, and admin controls. With over 700,000 developers using Codeium, it's becoming the AI coding assistant of choice for cost-conscious developers who don't want to compromise on features.",
+    "features": [
+      "Intelligent code autocomplete",
+      "AI chat for coding questions",
+      "Context-aware suggestions",
+      "70+ programming languages",
+      "IDE integrations (VS Code, JetBrains)",
+      "Generate unit tests and docs",
+      "Refactoring suggestions",
+      "Free unlimited usage"
+    ],
+    "pricing": "Free for individuals. Teams $12/user/mo, Enterprise custom with codebase fine-tuning",
+    "url": "https://codeium.com",
+    "bestFor": "Developers wanting free AI code completion and assistance without subscriptions",
+    "pros": [
+      "Completely free for individuals",
+      "No usage limits on free tier",
+      "Excellent code completion quality",
+      "Strong IDE integration",
+      "Privacy-focused"
+    ],
+    "cons": [
+      "Less well-known than GitHub Copilot",
+      "Team features require paid plan",
+      "Occasional suggestions need refinement"
+    ],
+    "rating": 4.5,
+    "metaTitle": "Codeium review 2026: free AI code completion alternative to Copilot",
+    "metaDescription": "Codeium offers free AI code completion and chat for developers. 70+ languages, IDE integration, unlimited usage. GitHub Copilot alternative."
+  },
+  {
+    "slug": "mem",
+    "name": "Mem",
+    "category": "ai-writing-assistants",
+    "tagline": "Self-organizing AI workspace for knowledge and notes",
+    "description": "Mem is revolutionizing note-taking by creating a self-organizing workspace where AI automatically connects your thoughts, surfaces relevant information, and helps you work with your accumulated knowledge. Unlike traditional note apps that require manual organization into folders and tags, Mem uses AI to understand context and relationships, making information retrieval feel effortless and serendipitous.\n\nThe platform's breakthrough feature is Mem Chat, an AI that can answer questions based on everything you've captured—notes, emails, calendar events, and files. Ask Mem 'what did I discuss with Sarah last month' or 'summarize my research on AI tools,' and it pulls relevant information from across your workspace. Notes are automatically linked based on content relationships, creating a knowledge graph that reveals connections you might have missed. Smart Search understands natural language queries, finding notes based on concepts rather than exact keywords.\n\nWhat makes Mem powerful is eliminating organizational overhead. Instead of spending time filing notes into the 'right' place, you capture thoughts quickly and trust Mem's AI to make them findable later. The platform syncs across all devices, offers collaborative workspaces for teams, and integrates with email and calendar for automatic context capture. Mem is particularly popular with researchers, writers, and knowledge workers who accumulate vast amounts of information and need AI assistance to make it useful. The platform's focus on intelligence over features creates a note-taking experience that feels like having a research assistant who remembers everything you've ever written.",
+    "features": [
+      "AI-powered auto-organization",
+      "Mem Chat knowledge assistant",
+      "Smart Search with context",
+      "Automatic note linking",
+      "Email and calendar integration",
+      "Collaborative workspaces",
+      "Cross-device sync",
+      "Knowledge graph visualization"
+    ],
+    "pricing": "Free tier available. Mem+ $14.99/mo with unlimited AI features and storage",
+    "url": "https://mem.ai",
+    "bestFor": "Researchers and knowledge workers who accumulate extensive notes and need AI assistance",
+    "pros": [
+      "Eliminates manual organization",
+      "Powerful AI knowledge retrieval",
+      "Automatic note linking",
+      "Clean, focused interface",
+      "Strong search capabilities"
+    ],
+    "cons": [
+      "Learning curve for AI-first workflow",
+      "Migration from other apps can be challenging",
+      "AI features require paid plan",
+      "Mobile apps less feature-rich"
+    ],
+    "rating": 4.4,
+    "metaTitle": "Mem review 2026: self-organizing AI workspace and note-taking",
+    "metaDescription": "Mem creates a self-organizing workspace with AI chat, automatic linking, and smart search. Knowledge management for researchers. Review."
   }
 ]

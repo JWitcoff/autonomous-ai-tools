@@ -3563,5 +3563,113 @@
     "rating": 4.4,
     "metaTitle": "Mem review 2026: self-organizing AI workspace and note-taking",
     "metaDescription": "Mem creates a self-organizing workspace with AI chat, automatic linking, and smart search. Knowledge management for researchers. Review."
+  },
+  {
+    "slug": "bolt-new",
+    "name": "Bolt.new",
+    "category": "ai-writing-assistants",
+    "tagline": "AI builds full-stack web apps instantly",
+    "description": "Bolt.new, created by StackBlitz, represents a breakthrough in AI-powered web development by generating complete, production-ready full-stack applications directly in the browser from simple text prompts. Unlike code assistants that help you write code, Bolt builds entire applications—complete with frontend, backend, database integrations, and deployments—in minutes rather than days or weeks.\n\nThe platform runs a complete development environment in your browser using WebContainers technology, allowing you to see your application come to life in real-time as Bolt writes the code. You can prompt Bolt to build anything from simple landing pages to complex web applications with authentication, databases, and API integrations. The AI understands modern web development practices, automatically selecting appropriate frameworks (React, Vue, Node.js), setting up proper project structure, and implementing best practices for security and performance. Bolt doesn't just generate code—it installs dependencies, configures build tools, and creates a fully functional development environment.\n\nWhat makes Bolt revolutionary is democratizing web development for non-developers while accelerating experienced developers. Entrepreneurs can prototype MVPs without hiring developers, designers can turn mockups into functional applications, and developers can use Bolt to scaffold projects and handle boilerplate. The platform supports iterative development through conversational prompts—simply describe what you want to change, and Bolt updates the entire codebase accordingly. Popular use cases include building internal tools, creating prototypes for pitches, rapid MVP development, and learning web development by seeing how complete applications are structured. The combination of instant feedback, production-ready code, and zero local setup makes Bolt.new one of the most exciting AI tools for web development.",
+    "features": [
+      "Full-stack app generation",
+      "In-browser development environment",
+      "Real-time code preview",
+      "Framework support (React, Vue, Node)",
+      "Database integration",
+      "API creation",
+      "One-click deployment",
+      "Iterative conversational editing"
+    ],
+    "pricing": "Free tier with limited builds. Pro $20/mo with unlimited private projects and priority generation",
+    "url": "https://bolt.new",
+    "bestFor": "Entrepreneurs and developers building web apps and MVPs rapidly",
+    "pros": [
+      "Builds complete full-stack apps",
+      "No local setup required",
+      "Real-time preview",
+      "Production-ready code",
+      "Great for rapid prototyping"
+    ],
+    "cons": [
+      "Generated code requires understanding to maintain",
+      "Complex apps still need developer refinement",
+      "Free tier limited builds",
+      "Browser-based limits for very large projects"
+    ],
+    "rating": 4.7,
+    "metaTitle": "Bolt.new review 2026: AI builds full-stack web apps instantly",
+    "metaDescription": "Bolt.new generates complete web applications from prompts. In-browser development, React/Node support, one-click deploy. Developer review."
+  },
+  {
+    "slug": "windsurf",
+    "name": "Windsurf",
+    "category": "ai-writing-assistants",
+    "tagline": "Codeium's AI IDE with agentic coding flows",
+    "description": "Windsurf is Codeium's answer to Cursor AI, offering a full-featured AI-powered IDE built on VS Code foundations with advanced agentic capabilities. Launched in late 2025, Windsurf introduces 'Flows'—a groundbreaking approach where AI doesn't just suggest code but autonomously executes multi-step coding tasks across your entire codebase while you maintain oversight and control.\n\nThe platform's Cascade feature represents the next evolution in AI coding assistance. Unlike traditional autocomplete or chat-based coding tools, Cascade understands your entire project context—analyzing your codebase, dependencies, documentation, and even running your tests—to make intelligent, multi-file changes autonomously. You can ask Windsurf to 'refactor the authentication system to use JWT tokens' or 'add error handling across all API routes,' and watch as it identifies affected files, makes coordinated changes, and ensures everything works together. The Flows system shows you exactly what Windsurf is doing in real-time, allowing you to approve, reject, or modify actions before they're applied.\n\nWhat distinguishes Windsurf from competitors like Cursor is its focus on autonomous coding flows combined with transparency and control. The platform excels at complex, multi-file refactorings that would take hours manually. Windsurf supports all major programming languages, integrates with popular frameworks, and includes terminal integration for running tests and debugging. The IDE maintains Codeium's commitment to privacy with options for on-premises deployment and data protection. Early adopters report significant productivity gains on large-scale refactoring tasks, bug fixes across multiple files, and feature implementations that touch many parts of the codebase. While the autonomous approach requires trust in the AI, Windsurf's transparent Flow visualization and approval system provide safety rails for professional development work.",
+    "features": [
+      "Cascade AI coding flows",
+      "Multi-file autonomous editing",
+      "Full codebase context awareness",
+      "Real-time flow visualization",
+      "Terminal integration",
+      "VS Code foundation",
+      "Privacy-focused options",
+      "50+ programming languages"
+    ],
+    "pricing": "Free tier with core features. Pro $15/mo unlimited usage, Team $30/user/mo with collaboration features",
+    "url": "https://codeium.com/windsurf",
+    "bestFor": "Professional developers tackling complex multi-file refactoring and feature work",
+    "pros": [
+      "Autonomous multi-file editing",
+      "Transparent flow visualization",
+      "Excellent for large refactorings",
+      "Privacy-focused approach",
+      "More affordable than Cursor"
+    ],
+    "cons": [
+      "Newer platform, smaller community",
+      "Requires trust in autonomous actions",
+      "Learning curve for Flows",
+      "Some features still maturing"
+    ],
+    "rating": 4.6,
+    "metaTitle": "Windsurf review 2026: Codeium's AI IDE with agentic flows",
+    "metaDescription": "Windsurf offers autonomous AI coding with Cascade flows. Multi-file editing, codebase context, transparent control. Cursor alternative review."
+  },
+  {
+    "slug": "poe",
+    "name": "Poe",
+    "category": "ai-writing-assistants",
+    "tagline": "Multi-model AI platform from Quora",
+    "description": "Poe (Platform for Open Exploration) is Quora's ambitious entry into the AI chatbot space, offering a unique value proposition: access to multiple leading AI models—including GPT-4, Claude, Gemini, Llama, and specialized community-created bots—through a single subscription and unified interface. Instead of subscribing to ChatGPT Plus, Claude Pro, and other individual services, Poe provides one-stop access to the best AI models for different tasks.\n\nThe platform's strength lies in model flexibility and comparison. You can start a conversation with GPT-4, switch to Claude for more nuanced writing, then use Gemini for research with real-time search integration, all within the same thread. Poe tracks your usage across models, allowing you to choose the best tool for each specific task without worrying about separate billing. Beyond major commercial models, Poe hosts thousands of community-created bots optimized for specific use cases—from creative writing assistants to coding helpers, translation specialists to game dungeon masters. The Bot Creator feature lets anyone build and share custom bots, creating a marketplace of specialized AI assistants.\n\nWhat makes Poe compelling is eliminating the paradox of choice in the AI landscape. Instead of committing to one ecosystem, power users get access to all major models plus community innovation. The mobile-first design makes AI accessible on-the-go, and the conversation history syncs across devices. Poe is particularly popular with AI experimenters who want to compare model capabilities, professionals who need the right AI for each task, and developers building custom bots. The platform represents Quora's bet on AI as a platform rather than a single product, positioning itself as the 'AI app store' where users access multiple AI capabilities through one subscription. The generous free tier allows limited access to all models, while paid tiers offer increased message limits across premium models.",
+    "features": [
+      "Access to GPT-4, Claude, Gemini, Llama",
+      "Single subscription for all models",
+      "Model switching within conversations",
+      "Community bot marketplace",
+      "Custom bot creator",
+      "Mobile-first design",
+      "Cross-device sync",
+      "Comparison mode"
+    ],
+    "pricing": "Free tier with limited messages. Poe Premium $19.99/mo for 1000+ messages across all models, Poe Ultra $49.99/mo for priority access",
+    "url": "https://poe.com",
+    "bestFor": "AI power users who want access to multiple models without separate subscriptions",
+    "pros": [
+      "One subscription for all major models",
+      "Easy model comparison",
+      "Community bot marketplace",
+      "Mobile-first experience",
+      "Generous message limits"
+    ],
+    "cons": [
+      "Models sometimes rate-limited during peak",
+      "Interface less polished than dedicated apps",
+      "Some bots inconsistent quality",
+      "Premium tier required for heavy use"
+    ],
+    "rating": 4.5,
+    "metaTitle": "Poe review 2026: access GPT-4, Claude, Gemini in one subscription",
+    "metaDescription": "Poe provides multi-model AI access through Quora's platform. One subscription for GPT-4, Claude, Gemini, community bots. Power user review."
   }
 ]
